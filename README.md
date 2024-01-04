@@ -17,6 +17,12 @@
 -implemented signout
 -Update profile API call
 -Fetch from TMDB api
+-BugFix: Sign up user displayName and profile picture update
+-BugFix-If the user is not logged in Redirect/browse to login page and vice versa
+-unsubscribed to the on/authStateChanged callback
+-Add hard coded values to the constant files
+-Register TMDB API and create an app & get access token
+-get data from tmdb now playing list API
 
 # Features
 
